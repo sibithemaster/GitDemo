@@ -14,6 +14,7 @@ public class JDBCConnection {
 
 	public static void main(String[] args) throws SQLException {
 		
+		System.out.println("My first data base connection");
 		String host="localhost";
 		String port="3306";
 		
