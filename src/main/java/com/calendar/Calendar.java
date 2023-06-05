@@ -12,8 +12,7 @@ public class Calendar {
 	public static void main(String[] args) {
 // TODO Auto-generated method stub
 
-		System.out.println("Hai");
-		System.out.println("Hello");
+		System.out.println("welcome");
 	//	System.setProperty("webdriver.chrome.driver", "C://work//chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://www.path2usa.com/travel-companions");
