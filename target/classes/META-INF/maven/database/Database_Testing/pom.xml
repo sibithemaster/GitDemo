@@ -30,10 +30,15 @@
 		</dependency>
 
 
-		<dependency>
+		<!--<dependency>
 			<groupId>com.google</groupId>
 			<artifactId>Google</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency>-->
 	</dependencies>
+	
+	<properties>
+		<jre.level>17</jre.level>
+		<jdk.level>17</jdk.level>
+	</properties>
 </project>
